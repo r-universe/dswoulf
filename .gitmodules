@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rddi"]
 	path = rddi
-	url = https://github.com/cran/rddi
+	url = https://github.com/dswoulf/rddi
